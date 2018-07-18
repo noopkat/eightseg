@@ -1,0 +1,19 @@
+{
+  "name": "eightseg",
+  "version": "1.0.0",
+  "description": "Johnny-Five compatible library to control a common anode eight segment display",
+  "main": "8seg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noopkat/eightseg.git"
+  },
+  "author": "Suz Hinton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noopkat/eightseg/issues"
+  },
+  "homepage": "https://github.com/noopkat/eightseg#readme"
+}
