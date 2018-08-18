@@ -34,10 +34,8 @@ const chars = {
 
 const eightseg = function(five, pins) {
   const pinNos = [...pins];
-  console.log(pinNos, pins.length);
   this.pins = pinNos.map((n) => new five.Pin(n));
   this.pins.forEach((pin, i) => pin.write(1));
-  //console.log(this.pins);
 }
 
 eightseg.prototype.display = function(char) {
