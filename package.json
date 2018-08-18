@@ -1,6 +1,6 @@
 {
   "name": "eightseg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Johnny-Five compatible library to control a common anode eight segment display",
   "main": "8seg.js",
   "scripts": {
